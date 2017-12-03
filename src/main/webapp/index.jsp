@@ -21,6 +21,7 @@
     <h3 class="message"><%=com.armelle.fitness.HelloFitness.getMessage()%></h3
     <p>
         <img src="images/fitness1.jpg" class="img-responsive" alt="Image">
+        <a href="http://www.myfitnesspal.com/weight-loss-ticker"><img border="0" src="http://www.myfitnesspal.com/ticker/show/2027/2659/120272659.png" /></a>
     </p>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
